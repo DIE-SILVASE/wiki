@@ -2,7 +2,7 @@ Este documento constituye una recopilación de todo lo que se ha hecho dentro de
 
 1. [Preparación del entorno MatrixMCU para utilizar emulalción con QUEMU e integración de GPIO en este último](#1-matrixmcu-y-qemu)
 2. [Preparación de un entorno de trabajo centralizado a través de Github Classroom](#2-github-classroom)
-3. Preparación de entorno de trabajo en Plarformio
+3. [Preparación de entorno de trabajo en Plarformio](#3-platformio)
 
 A continuación se indagará en cada una de las ramas, dando un punto de partida para futuros proyectos, que continuen en el desarrollo de cualquiera de las ramas.
 
